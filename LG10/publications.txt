@@ -1,0 +1,6 @@
+5
+Deep Learning for Medical Imaging,IEEE Transactions on Medical Imaging,220
+Blockchain Security Models,IEEE Access,180
+Natural Language Processing Advances,Computational Linguistics,150
+AI in Healthcare Systems,Journal of Healthcare Informatics,200
+Quantum Computing Algorithms,Nature Physics,250
